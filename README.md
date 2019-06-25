@@ -2,7 +2,7 @@
 
 Robotic Inference using NVidia DIGITS and NVidia Jetson TX2 Development Board
 
-# Classifying banknotes using Neural Network
+# Classifying Objects Using Neural Network
 ### &copy; Francisco E. Ortiz 
 ### Junho/2019
 
